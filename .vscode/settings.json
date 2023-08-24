@@ -1,0 +1,5 @@
+{
+    "window.zoomLevel": -2,
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
+    "jupyter.notebookFileRoot": "${workspaceFolder}"
+}
