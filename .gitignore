@@ -1,6 +1,7 @@
 #Personal
 .vscode/
-main.py
+main2.py
+config_instancia_ec2.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
